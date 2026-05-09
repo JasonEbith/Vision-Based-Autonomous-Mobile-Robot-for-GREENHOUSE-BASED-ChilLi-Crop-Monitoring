@@ -32,6 +32,14 @@ In pest detection mode, high-resolution images are processed using a YOLO-based 
 
 The Raspberry Pi sends navigation and control commands to the ESP32 through serial communication. The ESP32 controls the motors and servo actuators for rover movement, camera positioning, and moisture sensor deployment.
 
+### Overall Prototype of Autonomous Agricultural Rover System
+![Alt text]([image_url](https://github.com/JasonEbith/Vision-Based-Autonomous-Mobile-Robot-for-GREENHOUSE-BASED-ChilLi-Crop-Monitoring/blob/82f557c0fbd0877a1aa9a86fd95e521dc3819fcd/rover1.jpg))
+
+###  Rover Operation in Row Navigation Mode (Navigation Configuration)
+![Alt text]([image_url](https://github.com/JasonEbith/Vision-Based-Autonomous-Mobile-Robot-for-GREENHOUSE-BASED-ChilLi-Crop-Monitoring/blob/82f557c0fbd0877a1aa9a86fd95e521dc3819fcd/rover3.jpg))
+
+### Overall Prototype of Autonomous Agricultural Rover System
+![Alt text]([image_url]())
 The dashboard displays:
 * Live camera feed
 * Pest detection logs

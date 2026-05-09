@@ -4,8 +4,8 @@ This project presents an autonomous greenhouse monitoring rover developed for ch
 The rover uses a Raspberry Pi 5 for image processing and AI-based disease detection, while an ESP32 handles motor control and servo actuation. A YOLO-based deep learning model is used to detect chilli plant diseases such as aphids, whiteflies, anthracnose, leaf spot, and armyworm. The system also includes a dashboard for real-time monitoring.
 
 ## Main Features
-Autonomous row-based navigation using computer vision
-YOLO-based chilli plant disease detection
+* Autonomous row-based navigation using computer vision
+* YOLO-based chilli plant disease detection
 Soil moisture monitoring using YL-69 sensor
 Real-time dashboard interface
 Differential drive motor control

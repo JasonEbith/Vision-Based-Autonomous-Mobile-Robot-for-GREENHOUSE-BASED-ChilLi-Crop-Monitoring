@@ -42,7 +42,7 @@ The Raspberry Pi sends navigation and control commands to the ESP32 through seri
 ![Alt text](https://github.com/JasonEbith/Vision-Based-Autonomous-Mobile-Robot-for-GREENHOUSE-BASED-ChilLi-Crop-Monitoring/blob/570f6824951c629f717cee726a081aa3ac55697e/rover2.jpg)
 
 ###  Real-Time Pest Detection Using YOLO Model
-![Alt text](https://github.com/JasonEbith/Vision-Based-Autonomous-Mobile-Robot-for-GREENHOUSE-BASED-ChilLi-Crop-Monitoring/blob/61b689e6de63ff4deb7508a54cc0ad33623f95c6/pest.png )
+![Alt text](https://github.com/JasonEbith/Vision-Based-Autonomous-Mobile-Robot-for-GREENHOUSE-BASED-ChilLi-Crop-Monitoring/blob/23f8d70c97bb1faf25f3a01a933a0109f1104121/pest.png)
 
 ### Real-Time Row Detection and Navigation Control Output
 ![Alt text](https://github.com/JasonEbith/Vision-Based-Autonomous-Mobile-Robot-for-GREENHOUSE-BASED-ChilLi-Crop-Monitoring/blob/279907e314bab15631fe5e65cafe735f8a94892d/row.png)

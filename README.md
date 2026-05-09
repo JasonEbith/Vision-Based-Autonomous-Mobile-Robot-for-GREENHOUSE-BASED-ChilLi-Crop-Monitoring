@@ -39,7 +39,7 @@ The Raspberry Pi sends navigation and control commands to the ESP32 through seri
 ![Alt text](https://github.com/JasonEbith/Vision-Based-Autonomous-Mobile-Robot-for-GREENHOUSE-BASED-ChilLi-Crop-Monitoring/blob/82f557c0fbd0877a1aa9a86fd95e521dc3819fcd/rover3.jpg)
 
 ### Rover Operation in Pest Detection Mode (Sensor Deployment Configuration)
-![Alt text]([Rover Operation in Pest Detection Mode (Sensor Deployment Configuration)](https://github.com/JasonEbith/Vision-Based-Autonomous-Mobile-Robot-for-GREENHOUSE-BASED-ChilLi-Crop-Monitoring/blob/570f6824951c629f717cee726a081aa3ac55697e/rover2.jpg)
+![Alt text](https://github.com/JasonEbith/Vision-Based-Autonomous-Mobile-Robot-for-GREENHOUSE-BASED-ChilLi-Crop-Monitoring/blob/570f6824951c629f717cee726a081aa3ac55697e/rover2.jpg)
 
 The dashboard displays:
 * Live camera feed

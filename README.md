@@ -47,8 +47,8 @@ The Raspberry Pi sends navigation and control commands to the ESP32 through seri
 ### Real-Time Row Detection and Navigation Control Output
 ![Alt text](https://github.com/JasonEbith/Vision-Based-Autonomous-Mobile-Robot-for-GREENHOUSE-BASED-ChilLi-Crop-Monitoring/blob/279907e314bab15631fe5e65cafe735f8a94892d/row.png)
 
-### Real-Time Row Detection and Navigation Control Output
-![Alt text](https://github.com/JasonEbith/Vision-Based-Autonomous-Mobile-Robot-for-GREENHOUSE-BASED-ChilLi-Crop-Monitoring/blob/279907e314bab15631fe5e65cafe735f8a94892d/row.png)
+### Dashboard Interface Displaying Live Monitoring and Detection Logs
+![Alt text](https://github.com/JasonEbith/Vision-Based-Autonomous-Mobile-Robot-for-GREENHOUSE-BASED-ChilLi-Crop-Monitoring/blob/daa82d54f034d7892b98dc78efdab8d6d040a5ed/dash.png)
 
 The dashboard displays:
 * Live camera feed

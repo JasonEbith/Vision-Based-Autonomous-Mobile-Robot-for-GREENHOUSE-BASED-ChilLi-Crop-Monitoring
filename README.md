@@ -6,29 +6,23 @@ The rover uses a Raspberry Pi 5 for image processing and AI-based disease detect
 ## Main Features
 * Autonomous row-based navigation using computer vision
 * YOLO-based chilli plant disease detection
-Soil moisture monitoring using YL-69 sensor
-Real-time dashboard interface
-Differential drive motor control
-Servo-based camera and sensor positioning
-Serial communication between Raspberry Pi and ESP32
-Hardware Components
-Raspberry Pi 5
-ESP32
-Raspberry Pi Camera Module v2 (8MP)
-4 BO Motors
-2 × L298N Motor Drivers
-PCA9685 PWM Controller
-MG90S Servo Motor (camera tilt)
-SG90 Servo Motor (YL-69 deployment)
-YL-69 Soil Moisture Sensor
-3 × 18650 Li-ion Batteries
-
-## Software and Tools
-Python
-OpenCV
-YOLO
-TensorFlow Lite
-Arduino IDE
+* Soil moisture monitoring using YL-69 sensor
+* Real-time dashboard interface
+* Differential drive motor control
+* Servo-based camera and sensor positioning
+* Serial communication between Raspberry Pi and ESP32
+  
+## Hardware Components
+* Raspberry Pi 5
+* ESP32
+* Raspberry Pi Camera Module v2 (8MP)
+* 4 BO Motors
+* 2 × L298N Motor Drivers
+* PCA9685 PWM Controller
+* MG90S Servo Motor (camera tilt)
+* SG90 Servo Motor (YL-69 deployment)
+* YL-69 Soil Moisture Sensor
+* 3 × 18650 Li-ion Batteries
 
 ## Working
 
@@ -40,6 +34,6 @@ The Raspberry Pi sends navigation and control commands to the ESP32 through seri
 
 The dashboard displays:
 Live camera feed
--Pest detection logs
--Plant count
--Moisture status
+* Pest detection logs
+* Plant count
+* Moisture status

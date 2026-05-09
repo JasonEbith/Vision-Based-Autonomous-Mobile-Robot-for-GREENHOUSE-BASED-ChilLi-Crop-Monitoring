@@ -33,7 +33,7 @@ In pest detection mode, high-resolution images are processed using a YOLO-based 
 The Raspberry Pi sends navigation and control commands to the ESP32 through serial communication. The ESP32 controls the motors and servo actuators for rover movement, camera positioning, and moisture sensor deployment.
 
 The dashboard displays:
-Live camera feed
+* Live camera feed
 * Pest detection logs
 * Plant count
 * Moisture status
